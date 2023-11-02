@@ -1,50 +1,51 @@
 # Hello,
 # I'm MD. MILON HOSEN.
-I'am a front-end developer. My skills highlight in the bellow.
+I am a full-stack developer. My skills are highlighted below.
 
-Expertise: HTML, CSS, Bootstrap, Javascript, React.
-Compfortable: Express.js, MongoDB, Material UI, SASS.
-Familiar: PHP, MySQL, Firebase, Node.js.
-Tools: Git, Chrome Dev Tool, VSCode.
+### Frontend:
+HTML, CSS, JavaScript, TypeScript, React JS, Next JS.
+
+### Backend:
+Typescript, Node JS, Express JS, Prisma, Mongoose.
+
+### Database:
+MongoDB, PostgreSQL, MSSQL, MySQL.
+
+### State Management:
+Redux, Redux Toolkit.
+
+### Version Control:
+Git, GitHub.
+
+### Deployment and Hosting:
+Vercel, Heroku, Netlify, Firebase.
+
+### Tools:
+Chrome Dev Tool, VSCode.
+
 
 # MY PROJECTS
 <hr />
 
-# Star Laundry
+# 24/7 SPA SERVICE
 
 Features:
-i. A complete website for Laundry Service.
-ii. Dynamic data for front end design.
-iii.Login System with Admin panel.
-iv. Add services, manage services and order management system.
+i. A complete website for SPA Service.
+ii. Dynamic data for front-end design.
+iii. Login System with Admin panel.
+iv. Add services, managed services, and booking management systems.
 
-Technology: HTML, CSS, Font Awesome, React, React Bootstrap, Express.js, Firebase, Heroku, MongoDB.
+Technology: HTML, CSS, TypeScript, Next JS, Ant Design, Express.js, JWT, Prisma, PostgreSQL.
 
-Live Site: www.star-laundry.web.app
+### Live Site: https://spa-service-frontend.vercel.app
 
-# Fastest Shop
+# Subha Apparel
 
 Features:
-i. A full stack website.
+i. A Website for Apparel Products.
 ii. Dynamic data load from UI Design.
-iii. Firebase login system and admin panel.
-iv. Login System with Admin panel.
-v. Add services, managed services, and order management system.
+iii. Fully responsive design.
 
-Technology: HTML, CSS, Font Awesome, React, React Bootstrap, Express.js, Firebase, Heroku, MongoDB.
+Technology: HTML, CSS, Next JS, Material UI.
 
-Live Site: www.fastest-shop.web.app
-
-
-# Best Townish Rider
-
-Features:
-i. Dynamic data load from UI Design.
-ii. Firebase login system.
-iii. User registration form with validation.
-iv. Two-way login system.
-v. Google map integration.
-
-Technology: HTML, CSS, React, React Bootstrap, Firebase, google map.
-
-Live Site: www.best-townish-riders.web.app
+### Live Site: https://subha-apparel.vercel.app
